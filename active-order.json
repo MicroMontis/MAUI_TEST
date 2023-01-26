@@ -6,4 +6,25 @@
       "salesAreaId":5000000236,
       "extra":{}
    },
-{"transactionId":5000028318,"tableNumber":2,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028353,"tableNumber":3,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028398,"tableNumber":4,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028412,"tableNumber":5,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028449,"tableNumber":6,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028591,"tableNumber":7,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028489,"tableNumber":8,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028515,"tableNumber":9,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028535,"tableNumber":10,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028552,"tableNumber":11,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028571,"tableNumber":12,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000014830,"tableNumber":21,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028250,"tableNumber":22,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028608,"tableNumber":23,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028626,"tableNumber":24,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028646,"tableNumber":25,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028665,"tableNumber":26,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028682,"tableNumber":27,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028701,"tableNumber":28,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028926,"tableNumber":50,"tablePart":"a","salesAreaId":5000000237,"extra":{}},{"transactionId":5000028733,"tableNumber":701,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028757,"tableNumber":702,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028774,"tableNumber":703,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028791,"tableNumber":704,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028809,"tableNumber":705,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028833,"tableNumber":706,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028471,"tableNumber":707,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028843,"tableNumber":708,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028853,"tableNumber":709,"tablePart":"a","salesAreaId":5000000236,"extra":{}},{"transactionId":5000028908,"tableNumber":710,"tablePart":"a","salesAreaId":5000000236,"extra":{}}]
+   {
+      "transactionId":5000028318,
+      "tableNumber":2,
+      "tablePart":"a",
+      "salesAreaId":5000000236,
+      "extra":{}
+   },
+   {
+      "transactionId":5000028353,
+      "tableNumber":3,
+      "tablePart":"a",
+      "salesAreaId":5000000236,
+      "extra":{}
+   },
+   {
+      "transactionId":5000028908,
+      "tableNumber":710,
+      "tablePart":"a",
+      "salesAreaId":5000000236,
+      "extra":{}
+   }
+]
