@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RK7QueryResult ServerVersion="7.7.0.201" XmlVersion="248" NetName="MIDSERVER_MANTO_7.7" Status="Ok" CMD="GetOrderList" lastversion="186455" ErrorText="" DateTime="2023-02-06T14:03:21" WorkTime="0" Processed="1" ArrivalDateTime="2023-02-06T14:03:21">
+	<Visit VisitID="552935640" guid="{BAC88B12-CE70-4C88-BC17-F09762181280}" Finished="0" GuestsCount="1">
+		<Guests count="1">
+			<Guest GuestLabel="1"/>
+		</Guests>
+		<Orders>
+			<Order OrderID="512" OrderName="2" url="http://code.ucs.ru/qr?id=144C5CA985384039AAF06BD0A5B0F891C79CB315CB084D2D947742A6B5BA300CBC6956E2" Version="3" crc32="1357860183" guid="{C79CB315-CB08-4D2D-9477-42A6B5BA300C}" TableID="1000027" TableCode="2" OrderCategID="1000531" OrderCategCode="1" WaiterID="1000002" WaiterCode="1" OrderSum="8" ToPaySum="8" PriceListSum="8" TotalPieces="1000" Finished="0" Bill="0" CreateTime="2023-02-06T09:48:55" FinishTime="1899-12-30T00:00:00" Dessert="0">
+				<ExternalID ExtSource="{71F830D3-2DE3-4F74-B8F6-0BF199291C86}" ExtID="{BACC15A2-3973-4CD9-A267-B14E1454DF78}"/>
+				<ExternalID ExtSource="{7DC7AF79-1D00-4573-BE8A-A02C6FA3B430}" ExtID="236"/>
+			</Order>
+		</Orders>
+	</Visit>
+	<Visit VisitID="552935641" guid="{921A9CEF-BB20-4FD7-9916-81E4159EBA95}" Finished="0" GuestsCount="1">
+		<Guests count="1">
+			<Guest GuestLabel="1"/>
+		</Guests>
+		<Orders>
+			<Order OrderID="512" OrderName="3" url="http://code.ucs.ru/qr?id=144C5CA985384039AAF06BD0A5B0F8912A8752D7D5E94211A0841EA1E1669923EDEA5A72" Version="3" crc32="1981567060" guid="{2A8752D7-D5E9-4211-A084-1EA1E1669923}" TableID="1000028" TableCode="3" OrderCategID="1000531" OrderCategCode="1" WaiterID="1000002" WaiterCode="1" OrderSum="120" ToPaySum="120" PriceListSum="120" TotalPieces="1000" Finished="0" Bill="0" CreateTime="2023-02-06T09:49:07" FinishTime="1899-12-30T00:00:00" Dessert="0">
+				<ExternalID ExtSource="{71F830D3-2DE3-4F74-B8F6-0BF199291C86}" ExtID="{BACC15A2-3973-4CD9-A267-B14E1454DF78}"/>
+				<ExternalID ExtSource="{7DC7AF79-1D00-4573-BE8A-A02C6FA3B430}" ExtID="237"/>
+			</Order>
+		</Orders>
+	</Visit>
+	<Visit VisitID="552935642" guid="{9558E5F2-50C7-4FC8-9D05-E315C031B2DD}" Finished="0" GuestsCount="2">
+		<Guests count="2">
+			<Guest GuestLabel="1"/>
+			<Guest GuestLabel="2"/>
+		</Guests>
+		<Orders>
+			<Order OrderID="256" OrderName="4" url="http://code.ucs.ru/qr?id=144C5CA985384039AAF06BD0A5B0F891D25A155A8CD8478B9A487F9AB2BBC5F5E90C40C7" Version="4" crc32="2115982426" guid="{D25A155A-8CD8-478B-9A48-7F9AB2BBC5F5}" TableID="1000065" TableCode="4" OrderCategID="1000531" OrderCategCode="1" WaiterID="1000021" WaiterCode="9" OrderSum="160" ToPaySum="155" PriceListSum="160" PrepaySum="5" PromisedSum="5" TotalPieces="1000" Finished="0" Bill="0" CreateTime="2023-02-06T14:02:40" FinishTime="1899-12-30T00:00:00" ReceiptError="1" Dessert="0">
+				<ExternalID ExtSource="{71F830D3-2DE3-4F74-B8F6-0BF199291C86}" ExtID="{BACC15A2-3973-4CD9-A267-B14E1454DF78}"/>
+				<ExternalID ExtSource="{7DC7AF79-1D00-4573-BE8A-A02C6FA3B430}" ExtID="233"/>
+			</Order>
+		</Orders>
+	</Visit>
+</RK7QueryResult>
